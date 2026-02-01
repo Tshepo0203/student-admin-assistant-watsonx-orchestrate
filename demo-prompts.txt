@@ -1,0 +1,11 @@
+Prompt 1:
+Help me register for CS101, MAT101 and PHY105 (carry-over).
+
+Prompt 2:
+Check clashes and suggest the best alternative sessions.
+
+Prompt 3:
+Build my weekly timetable using the best non-clashing options.
+
+Prompt 4:
+Draft a professional email to the registrar confirming my clash-free selection.
